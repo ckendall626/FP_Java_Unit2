@@ -1,0 +1,3 @@
+class Horse{
+	String name;
+}
